@@ -1,0 +1,96 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.block {
+    align-items: center;
+}
+
+.description {
+    padding: 80px;
+}
+
+.picture {
+    text-align: center;
+}
+
+.picture img {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.text-container {
+    padding: 5px;
+    flex: 2;
+}
+
+.text-container h2 {
+    margin-bottom: 10px;
+}
+
+.text-container p {
+    line-height: 1.5;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
+
+.card h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+.info h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: semi-bold;
+}
+
+.card p {
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+.item {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    justify-content: center;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item h2 {
+    font-size: 13px;
+    text-align: center;
+}
+
+.item .info {
+    border-radius: 10px;
+    padding-top: 8px;
+    border: black;
+}
+
+.box span {
+    color: black;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+    margin: 0;
+}
+
+.spacer {
+    height: 3rem;
+}
